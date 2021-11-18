@@ -1,0 +1,39 @@
+.input{
+    width: 250px;
+    height: 23px;
+    background-color: whitesmoke;
+
+
+}
+.div1{
+    background-color: whitesmoke;
+    height: 400px;
+    width: 600px;
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-right: 100px;
+
+}
+.btn{
+    color: white;
+    background-color: red;
+    width: 45px;
+    height: 35px;
+    border-radius: 10px;
+    margin-left: -40px;
+}
+.img{
+   height:  470px;
+   width: 600px;
+}
+.overall{
+    display: inline-flex;
+    padding-top: 270px;
+    padding-bottom: 15px;
+
+
+
+
+
+
+}

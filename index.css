@@ -1,0 +1,27 @@
+.frm{
+    background-color: black;
+    color: crimson;
+    width: 300px;
+    height: 300px;
+}
+.btn{
+    background-color: red;
+    color: black;
+    width: 177px;
+}
+.info{
+    width: 200px;
+}
+#info{
+    width: 125px;
+}
+.table{
+    color: darkred;
+    background-color: darkred;
+
+
+
+}
+
+
+
